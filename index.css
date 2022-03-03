@@ -1,0 +1,32 @@
+h1 {
+    margin: 20px;
+}
+h2 {
+    margin: 20px;
+}
+li {
+    margin: 5x;
+}
+p {
+    margin: 2px;
+}
+table {
+    border:2px solid rgb(189, 189, 189);
+  }
+  
+  body {
+      background-color: rgb(134, 134, 134);
+}
+tr {
+    padding: 1px;
+}
+th, td {
+    padding: 1%;
+    background-color: rgb(83, 83, 83);
+    color: azure;
+    font-weight: bold;
+}
+dt {
+    font-weight: bold;
+    padding: 5px;
+}
